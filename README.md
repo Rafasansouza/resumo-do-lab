@@ -47,6 +47,7 @@ Neste projeto, irei destacar os principais serviços apresentados durante o lab 
 
 Acessando a opção "Todos os serviços", disponivel na barra lateral esquerda terá acesso as categorias de:
 
+
 - ### 🎲 Análise
 Nessa categoria irei me aprofundar um pouco mais devido o interesse na área. Bom, o Azure tem várias ferramentas para ajudar a analisar grandes volumes de dados. Aqui estão algumas que eu conheci:
 
@@ -78,8 +79,8 @@ Um serviço de análise em tempo real para processar e analisar dados que vêm d
 Um serviço de ingestão de dados em tempo real, ideal para capturar e processar milhões de eventos de dispositivos e sistemas conectados.
 Computação
 
-- ### 🖥️ Computação
 
+- ### 🖥️ Computação
 Há também alguns serviços voltados para computação no Azure:
 
 #### 1. Máquinas Virtuais (VMs):
@@ -91,8 +92,8 @@ Um serviço para gerenciar contêineres com Kubernetes no Azure. Ele facilita a 
 #### 3. Funções do Azure (Azure Functions):
 Um serviço que permite rodar pequenos pedaços de código sem precisar gerenciar servidores, ideal para automatizar tarefas.
 
-- ### 🛜 Redes
 
+- ### 🛜 Redes
 Para a parte de redes no Azure, existem várias opções para configurar e gerenciar o tráfego de rede:
 
 #### 1. Azure Virtual Network (VNet):
@@ -117,8 +118,8 @@ São discos virtuais usados para armazenar dados em VMs, com backup e replicaç�
 #### 3. Azure Files:
 Um serviço de compartilhamento de arquivos na nuvem, que pode ser acessado via protocolo SMB, como um servidor de arquivos tradicional.
 
-- ### 🏦🎲 Bases de Dados
 
+- ### 🏦🎲 Bases de Dados
 O Azure oferece vários serviços de bancos de dados, como:
 
 #### 1. Azure SQL Database:
@@ -130,8 +131,8 @@ Um banco de dados NoSQL distribuído globalmente, ideal para aplicativos que pre
 #### 3. Azure Database for MySQL/PostgreSQL:
 Bancos de dados relacionais gerenciados na nuvem, compatíveis com MySQL e PostgreSQL, para quem já utiliza essas tecnologias.
 
-- ### 🚛 Contentores
 
+- ### 🚛 Contentores
 Popularmente chamados de Contêineres, são serviços destinados para gerenciar aplicativos, e adivinha na Azure também existem esses serviços:
 
 #### 1. Azure Kubernetes Service (AKS):
@@ -143,8 +144,8 @@ Permite executar contêineres sem a necessidade de gerenciar a infraestrutura, i
 #### 3. Azure Container Registry:
 Um repositório para armazenar e gerenciar imagens de contêineres, que pode ser usado com o AKS ou outros serviços.
 
-- ### 🧠 AI + Machine Learning
 
+- ### 🧠 AI + Machine Learning
 Por fim, chegamos na famosa IA para fechamos com chave de ouro este resumão... Sendo assim, irei deixar aqui algumas ferramentas de IA e Machine Learning no Azure:
 
 #### 1. Azure Machine Learning:
@@ -155,6 +156,7 @@ Um conjunto de APIs de IA que permitem adicionar funcionalidades como reconhecim
 
 #### 3. Bot Service:
 Um serviço para criar e gerenciar chatbots inteligentes que podem interagir com usuários por meio de texto ou fala.
+
 
 ## 🔚 Conclusão
 
