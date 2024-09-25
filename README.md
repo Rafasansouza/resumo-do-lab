@@ -17,16 +17,19 @@ Este projeto tem como objetivo resumir o lab da [DIO](https://www.dio.me/), comp
 
 1. Crie uma conta e faça login na plataforma [Azure](https://azure.microsoft.com/pt-br/).
 2. Com o login efetuado, acesse o [portal Azure](https://portal.azure.com/) e será direcionado para a seguinte tela:
+
 ![image](https://github.com/user-attachments/assets/b38b40ac-c79d-44e9-b869-76a15c5d98c6)
 
 ### - Mudando a linguagem na Plataforma:
 
 Caso tenha configurado erroneamente a liguagem ou queira muda-lá apos um tempo. Então:
 1. Acesse a engrenagem no canto superior direito. Conforme a imagem abaixo ou [clique aqui](https://portal.azure.com/#settings):
+
 ![image](https://github.com/user-attachments/assets/61fca220-bb88-4cc7-9336-1fa17455ff58)
 
 
 2. Em seguida, localize na tela "Idioma + região", conforme a seguir:
+
 ![image](https://github.com/user-attachments/assets/a0f8179b-8e65-420b-a77a-72fefb3fbbbf)
 
 3. Sendo assim, podera escolher a conforme desejar e não esqueça de aplicar as modificações, no centro inferior da tela.
@@ -76,7 +79,7 @@ Um serviço de análise em tempo real para processar e analisar dados que vêm d
 Um serviço de ingestão de dados em tempo real, ideal para capturar e processar milhões de eventos de dispositivos e sistemas conectados.
 Computação
 
-### - Computação
+- ### Computação
 
 Há também alguns serviços voltados para computação no Azure:
 
