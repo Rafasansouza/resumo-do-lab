@@ -156,5 +156,7 @@ Um conjunto de APIs de IA que permitem adicionar funcionalidades como reconhecim
 #### 3. Bot Service:
 Um serviço para criar e gerenciar chatbots inteligentes que podem interagir com usuários por meio de texto ou fala.
 
+## 🔚 Conclusão
+
 E assim chegamos ao final deste projeto no Azure! Foi uma experiência incrível conhecer alguns dos principais recursos que a nuvem tem a oferecer. Desde análise de dados até gerenciamento de redes e inteligência artificial, cada ferramenta tem seu papel importante. Estou animado para explorar mais a fundo essas opções no futuro. Obrigado por me acompanhar nessa jornada! Fiquem à vontade para compartilhar suas ideias e sugestões! 💙
 
