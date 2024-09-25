@@ -1,26 +1,26 @@
 # resumo-do-lab
 # AZURE: Computação em Nuvem
 
-## Descrição do Projeto
+## 📖 Descrição do Projeto
 
 Este projeto tem como objetivo resumir o lab da [DIO](https://www.dio.me/), computação em nuvem, utilizando a plataforma Microsoft Azure. As atividades foram realizadas como parte do curso na DIO, e envolvem a familiarização com o ambiente da Microsoft Azure e para isso vamos resumir os primeiros passos para configurar o ambiente, assim como alguns dos principais serviços disponiveis.
 
-## Objetivos
+## 🎯 Objetivos
 
 - Entender a arquitetura de nuvem.
 - Configurar o ambiente de desenvolvimento Azure.
 - Explorar e entender os principais recursos do Azure.
 
-## Configurando o Ambiente Azure
+## ⚙️ Configurando o Ambiente Azure
 
-### - Acesso ao Portal Azure:
+- ### Acesso ao Portal Azure:
 
 1. Crie uma conta e faça login na plataforma [Azure](https://azure.microsoft.com/pt-br/).
 2. Com o login efetuado, acesse o [portal Azure](https://portal.azure.com/) e será direcionado para a seguinte tela:
 
 ![image](https://github.com/user-attachments/assets/b38b40ac-c79d-44e9-b869-76a15c5d98c6)
 
-### - Mudando a linguagem na Plataforma:
+- ### Mudando a linguagem na Plataforma:
 
 Caso tenha configurado erroneamente a liguagem ou queira muda-lá apos um tempo. Então:
 1. Acesse a engrenagem no canto superior direito. Conforme a imagem abaixo ou [clique aqui](https://portal.azure.com/#settings):
@@ -28,19 +28,19 @@ Caso tenha configurado erroneamente a liguagem ou queira muda-lá apos um tempo.
 ![image](https://github.com/user-attachments/assets/61fca220-bb88-4cc7-9336-1fa17455ff58)
 
 
-2. Em seguida, localize na tela "Idioma + região", conforme a seguir:
+2. Em seguida, localize na tela **"Idioma + região"**, conforme a seguir:
 
 ![image](https://github.com/user-attachments/assets/a0f8179b-8e65-420b-a77a-72fefb3fbbbf)
 
-3. Sendo assim, podera escolher a conforme desejar e não esqueça de aplicar as modificações, no centro inferior da tela.
+3. Sendo assim, podera escolher conforme desejar e não esqueça de **aplicar** as modificações, no centro inferior da tela.
 
-### - Mudando o Tema:
+- ### Mudando o Tema:
 
 1. Para mudar o tema do Portal Azure [clique aqui](https://portal.azure.com/#settings).
-2. Vá em "Aparência + vistas de arranque".
-3. Em seguida, selecione o "Comportamento do menu", o "Comportamento do menu de serviço", o "Tema" e a "Pagina de arranque" que preferir.
+2. Vá em **"Aparência + vistas de arranque"**.
+3. Em seguida, selecione o **"Comportamento do menu"**, o **"Comportamento do menu de serviço"**, o **"Tema"** e a **"Pagina de arranque"** que preferir.
 
-## Explorando Alguns dos Principais Serviços:
+## 🔎 Explorando Alguns dos Principais Serviços:
 
 Atualmente, o Portal Azure oferece uma ampla gama de serviços que podem atender diversas necessidades, desde infraestrutura até inteligência artificial. A escolha dos serviços mais adequados dependerá do seu objetivo e das demandas do projeto.
 
@@ -48,7 +48,7 @@ Neste projeto, irei destacar os principais serviços apresentados durante o lab 
 
 Acessando a opção "Todos os serviços", disponivel na barra lateral esquerda terá acesso as categorias de:
 
-### - Análise
+- ### 🎲 Análise
 Nessa categoria irei me aprofundar um pouco mais devido o interesse na área. Bom, o Azure tem várias ferramentas para ajudar a analisar grandes volumes de dados. Aqui estão algumas que eu conheci:
 
 #### 1. Azure Synapse Analytics:
@@ -79,7 +79,7 @@ Um serviço de análise em tempo real para processar e analisar dados que vêm d
 Um serviço de ingestão de dados em tempo real, ideal para capturar e processar milhões de eventos de dispositivos e sistemas conectados.
 Computação
 
-- ### Computação
+- ### 🖥️ Computação
 
 Há também alguns serviços voltados para computação no Azure:
 
@@ -92,7 +92,7 @@ Um serviço para gerenciar contêineres com Kubernetes no Azure. Ele facilita a 
 #### 3. Funções do Azure (Azure Functions):
 Um serviço que permite rodar pequenos pedaços de código sem precisar gerenciar servidores, ideal para automatizar tarefas.
 
-### - Redes
+- ### 🛜 Redes
 
 Para a parte de redes no Azure, existem várias opções para configurar e gerenciar o tráfego de rede:
 
@@ -105,7 +105,7 @@ Um serviço que distribui o tráfego de rede entre vários servidores para garan
 #### 3. VPN Gateway:
 Uma solução para conectar suas redes locais ao Azure por meio de uma VPN segura.
 
-### - Armazenamento
+- ### 💾 Armazenamento
 
 Aqui estão os serviços de armazenamento no Azure:
 
@@ -118,7 +118,7 @@ São discos virtuais usados para armazenar dados em VMs, com backup e replicaç�
 #### 3. Azure Files:
 Um serviço de compartilhamento de arquivos na nuvem, que pode ser acessado via protocolo SMB, como um servidor de arquivos tradicional.
 
-### - Bases de Dados
+- ### 🏦🎲 Bases de Dados
 
 O Azure oferece vários serviços de bancos de dados, como:
 
@@ -131,7 +131,7 @@ Um banco de dados NoSQL distribuído globalmente, ideal para aplicativos que pre
 #### 3. Azure Database for MySQL/PostgreSQL:
 Bancos de dados relacionais gerenciados na nuvem, compatíveis com MySQL e PostgreSQL, para quem já utiliza essas tecnologias.
 
-### - Contentores
+- ### 🚛 Contentores
 
 Popularmente chamados de Contêineres, são serviços destinados para gerenciar aplicativos, e adivinha na Azure também existem esses serviços:
 
@@ -144,7 +144,7 @@ Permite executar contêineres sem a necessidade de gerenciar a infraestrutura, i
 #### 3. Azure Container Registry:
 Um repositório para armazenar e gerenciar imagens de contêineres, que pode ser usado com o AKS ou outros serviços.
 
-### - AI + Machine Learning
+- ### 🧠 AI + Machine Learning
 
 Por fim, chegamos na famosa IA para fechamos com chave de ouro este resumão... Sendo assim, irei deixar aqui algumas ferramentas de IA e Machine Learning no Azure:
 
@@ -156,4 +156,6 @@ Um conjunto de APIs de IA que permitem adicionar funcionalidades como reconhecim
 
 #### 3. Bot Service:
 Um serviço para criar e gerenciar chatbots inteligentes que podem interagir com usuários por meio de texto ou fala.
+
+E assim chegamos ao final deste projeto no Azure! Foi uma experiência incrível conhecer alguns dos principais recursos que a nuvem tem a oferecer. Desde análise de dados até gerenciamento de redes e inteligência artificial, cada ferramenta tem seu papel importante. Estou animado para explorar mais a fundo essas opções no futuro. Obrigado por me acompanhar nessa jornada! Fiquem à vontade para compartilhar suas ideias e sugestões! 💙
 
