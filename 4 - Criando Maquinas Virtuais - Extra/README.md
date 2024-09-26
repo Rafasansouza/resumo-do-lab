@@ -48,7 +48,7 @@ Esse é o meu resumo de como criar uma **Máquina Virtual (VM)** no **Azure**. E
 ---
 
 ## Primeira VM Criada
-Bom, seguindo esses passos eu vai consegui criar minha primeira VM! Dá Só uma olhada...
+Bom, seguindo esses passos eu consegui criar minha primeira VM! Dá Só uma olhada...
 
 ![image](https://github.com/user-attachments/assets/7fe2d847-5cc0-43c2-860a-ee2a540cfaa7)
 
