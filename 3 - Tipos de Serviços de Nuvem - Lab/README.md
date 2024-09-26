@@ -18,7 +18,7 @@ O **SaaS** oferece software pronto para uso via internet, sem necessidade de ins
 - ### Modelo de Responsabilidade Compartilhada
 Esse modelo explica como a segurança e o gerenciamento são divididos entre o cliente e o provedor (Azure). No **IaaS**, o cliente tem mais responsabilidade, como gerenciar o sistema operacional e aplicativos. No **PaaS**, a responsabilidade é dividida, e no **SaaS**, o provedor gerencia quase tudo. É fundamental entender esse modelo para garantir que suas operações e dados estejam protegidos.
 
-- ### Criação de Máquinas Virtuais e Servidores SQL
+## 🖥️ Criação de Máquinas Virtuais e Servidores SQL
 Durante o estudo, foi discutida a importância de configurar uma **Máquina Virtual** no Azure para gerenciar diversos serviços de TI. As máquinas virtuais permitem simular servidores físicos e executar qualquer sistema operacional ou aplicativo, com a vantagem da escalabilidade da nuvem.
 
 Além disso, abordamos como criar um servidor SQL no Azure para hospedar bancos de dados **SQL Server**. Essa prática é essencial para gerenciar e armazenar dados de forma eficiente e segura, aproveitando os recursos gerenciados da plataforma.
