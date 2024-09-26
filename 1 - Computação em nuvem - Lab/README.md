@@ -1,4 +1,4 @@
-# 📓 Resumo Lab: Computação em Nuvem
+# 📓 Resumo Laboratório: Computação em Nuvem
 
 ## 📖 Descrição do Projeto
 
