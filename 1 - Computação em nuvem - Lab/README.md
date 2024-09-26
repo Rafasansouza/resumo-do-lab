@@ -1,4 +1,4 @@
-# AZURE: Computação em Nuvem
+# 📓 Resumo Lab: Computação em Nuvem
 
 ## 📖 Descrição do Projeto
 
