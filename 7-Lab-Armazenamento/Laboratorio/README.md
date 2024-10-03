@@ -82,4 +82,4 @@ O Azure Storage Explorer é uma ferramenta gráfica que permite gerenciar arquiv
 
 ## 🤝 Contribuições e Melhorias
 
-Espero que este resumo do aprendizado te ajude de alguma forma! Se você tiver sugestões, melhorias ou quiser contribuir de alguma forma, fique à vontade para abrir um *pull request* ou *issue*. Suas ideias e contribuições são sempre bem-vindas! Obrigado. 🖤
+Espero que este resumo do aprendizado te ajude de alguma forma! Se você tiver sugestões, melhorias ou quiser contribuir, fique à vontade para abrir um *pull request* ou *issue*. Suas ideias e contribuições são sempre bem-vindas! Obrigado. 🖤
