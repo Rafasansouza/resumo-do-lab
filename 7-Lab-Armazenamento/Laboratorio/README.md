@@ -1,4 +1,4 @@
-# ☁️ Lab: Criando Storage Account, Azure Data Box, AzCopy e Gerenciador de Armazenamento no Azure
+# ☁️ Lab: Armazenamento no Azure
 
 ## 📄 Descrição
 Este projeto foi desenvolvido durante o laboratório do bootcamp da **DIO** para praticar o uso de recursos de armazenamento no **Microsoft Azure**. O objetivo é criar uma **Storage Account**, configurar o **Azure Data Box** para migração de grandes volumes de dados, utilizar a ferramenta de linha de comando **AzCopy** para transferência rápida de arquivos, e explorar o **Gerenciador de Armazenamento do Azure**.
