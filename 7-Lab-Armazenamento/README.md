@@ -1,7 +1,7 @@
 # ☁️ Armazenamento no Azure
 
 ## 📄 Descrição
-Este artigo explora as principais opções e serviços de armazenamento no **Microsoft Azure**, abordando desde conceitos básicos até ferramentas avançadas para migração e gerenciamento de dados. O objetivo é fornecer um panorama completo das funcionalidades de armazenamento na nuvem e como utilizá-las para garantir segurança, alta disponibilidade e desempenho.
+Este resumo explora as principais opções e serviços de armazenamento no **Microsoft Azure**, abordando desde conceitos básicos até ferramentas avançadas para migração e gerenciamento de dados. O objetivo é fornecer um panorama completo das funcionalidades de armazenamento na nuvem e como utilizá-las para garantir segurança, alta disponibilidade e desempenho.
 
 ## 🗂️ Tópicos Principais
 
