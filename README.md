@@ -14,7 +14,7 @@ Este repositório é uma excelente fonte de consulta para revisar os conteúdos 
 - Interagir e trocar conhecimento com outros alunos do bootcamp, fazendo networking.
 - Auxiliar na preparação para o simulado final e concorrer aos vouchers de certificação.
 
-## 🔚 Conclusão
+## 🔚 Agradecimentos e Sugestões
 
 Obrigado por me acompanhar nessa jornada! Fiquem à vontade para compartilhar suas ideias e sugestões! 💙
 
