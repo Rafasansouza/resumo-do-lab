@@ -1,6 +1,6 @@
 # 🌐 Laboratório de Governança e Conformidade no Azure
 
-Este repositório contém um guia completo sobre Governança e Conformidade no Azure, abordando o **Portal de Confiança do Serviço**, criação de políticas no **Azure Policy**, gerenciamento de bloqueios em **Resource Groups** e a criação de contas do **Microsoft Purview**.
+Este repositório contém um resumo do laboratório sobre Governança e Conformidade no Azure no bootcamp da DIO, abordando o **Portal de Confiança do Serviço**, criação de políticas no **Azure Policy**, gerenciamento de bloqueios em **Resource Groups** e a criação de contas do **Microsoft Purview**.
 
 ---
 
